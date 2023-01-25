@@ -1,0 +1,16 @@
+.inte__accordionHeader .inte__cardTitle h3 {
+  font-size: 18px;
+}
+
+.inte__lr-Layout .inte__l-Layout .inte-flex__item h3.inte__l-title {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.inte__accordionHeader .inte__cardTitle h3 {
+  font-size: 20px !important;
+}
+
+.inte__accordion--active .inte__accordionBody h3.inte__Subheading {
+  font-size: 16px;
+}
